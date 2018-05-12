@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4300
     wikipedia: http://en.wikipedia.org/wiki/William_Carew_Hazlitt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41930#A-Select-Collection-of-Old-English-PlaysOriginally-published-by-Robert-Dodsley-in-the-year-17_
 gutenberg_issued: '2013-01-27'
 gutenberg_type: Text
 identifiers:
